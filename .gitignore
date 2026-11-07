@@ -1,0 +1,30 @@
+
+# Veri setleri
+data/*
+!data/README.md
+
+# Model agirliklari
+*.pth
+*.pt
+*.h5
+*.keras
+
+# Python gecici dosyalari
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ortam dosyalari
+.env
+.venv/
+
+# LaTeX gecici dosyalari
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Sistem dosyalari
+.DS_Store
+Thumbs.db
